@@ -1,0 +1,4 @@
+Django
+djangorestframework
+sqlite3
+drf-yasg
